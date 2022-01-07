@@ -1,4 +1,3 @@
 # proyecto_mercadoLiebre
-Práctica 
 
-Hassir Elias Lastre Sierra
+Proyecto de práctica del Curso en Programación Web Full Stack de Digital House.
